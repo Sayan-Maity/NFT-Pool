@@ -20,7 +20,7 @@ function Intro() {
         {/* Logo */}
         <div className='flex items-center space-x-2'>
           <AiOutlineRadarChart size={35} />
-          <h3 className='text-lg font-bold uppercase'>NFT Marketplace.</h3>
+          <h3 className='text-lg font-bold uppercase'>NFT Pool.</h3>
         </div>
         {/* Intro */}
         <p className='text-slate-300 '>

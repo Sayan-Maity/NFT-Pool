@@ -40,7 +40,7 @@ function Navbar() {
               variants={childVariants}
               className='text-2xl font-bold uppercase text-transparent bg-clip-text bg-gradient-to-r from-fuchsia-500 via-red-600 to-orange-400'
             >
-              <span className=''>NFT</span> Marketplace.
+              <span className=''>NFT</span> Pool.
             </motion.h1>
             {/* Menu Items */}
             <motion.div
