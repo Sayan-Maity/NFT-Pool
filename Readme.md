@@ -13,7 +13,7 @@ Author : [Sayan Maity](sayancr777@gmail.com)
 
 
 ## Built with
-<img src="https://img.shields.io/badge/React5%20-%23323330.svg?&style=for-the-badge&logo=React&logoColor=%20-%2361DAFB"/> <img src="https://img.shields.io/badge/tailwindcss%20-%23323330.svg?&style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4"/> <img src="https://img.shields.io/badge/vite%20-%23646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React5%20-%23323330.svg?&style=for-the-badge&logo=React&logoColor=%20-%2361DAFB"/> <img src="https://img.shields.io/badge/tailwindcss%20-%23323330.svg?&style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4"/> <img src="https://img.shields.io/badge/vite%20-%23646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white"/>  <img src="https://img.shields.io/badge/framer%20-%230055FF.svg?&style=for-the-badge&logo=framer&logoColor=white"/> 
 - **Frontend**: React.JS, TailwindCSS, Vite
 - **Version Control**: Git
 - **Hosting**: Netlify, Github Pages
