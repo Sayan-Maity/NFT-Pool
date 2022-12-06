@@ -22,12 +22,12 @@ To start contributing, follow the below guidelines:
 **2.**  Clone your forked copy of the project.
 
 ```bash
-   git clone https://github.com/KiranAminPanjwani/LeatherHoard.git
+   git clone https://github.com/Sayan-Maity/NFT-Pool.git
 ```
 
 **3.** Navigate to the project directory.
 ```
-   cd LeatherHoard-Website
+   cd nft-pool
 ```
 
 **4.** Create a new branch:
