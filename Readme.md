@@ -3,7 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/04006ff5-da87-42c6-bc1b-3451658ff5d3/deploy-status)](https://app.netlify.com/sites/sayancr777-nft-pool/deploys)
 
-NFT POOL. is a responsive landing wesite where exchange of NFTs can be done seamlessly
+NFT POOL. is a platform where exchange of NFTs can be done seamlessly. At present, its the only prototype and the functioning of the transfer of the NFTs can be carry out in future.
 
 Author : [Sayan Maity](sayancr777@gmail.com)
 
